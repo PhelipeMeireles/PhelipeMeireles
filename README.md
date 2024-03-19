@@ -5,7 +5,7 @@
 <p align="center">Eu sou um apaixonado e entusiasta de desenvolvimento. <br><br> Desde a criação de um projeto até o desenvolvimento em linhas usando as tecnologias relacionadas ao front-end, <strong>Amo descobrir o novo e sempre aberto a novas experiências.</strong> Hoje sou um <strong>Desenvolvedor Front-End</strong> focado no desenvolvimento web e em melhorar o dia das pessoas com minhas soluções.</p></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PhelipeMeirelest&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PhelipeMeireles&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PhelipeMeireles&show_icons=true&theme=radical&layout=compact" />
  </div>
  
