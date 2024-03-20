@@ -1,5 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PhelipeMeireles" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PhelipeMeireles/PhelipeMeireles/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Desenvolvedor Front-end.<br><br>Eu sou um apaixonado e entusiasta de desenvolvimento. Desde a criação de um projeto até o desenvolvimento em linhas usando as tecnologias relacionadas ao front-end, <strong>Amo descobrir o novo e sempre aberto a novas experiências.</strong> Hoje sou um <strong>Desenvolvedor Front-End</strong> focado no desenvolvimento web e em melhorar o dia das pessoas com minhas soluções.</p></p>&nbsp;
